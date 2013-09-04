@@ -23,8 +23,8 @@ class SessionsController < ApplicationController
   end
 
   def destroy
-    sign_out
-    redirect_to root_url
+    session.delete(:user_id)
+    redirect_to root_path, notice: "You've been logged out."
   end
 
 end
