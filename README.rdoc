@@ -1,3 +1,5 @@
+{<img src="https://codeclimate.com/repos/5296932bf3ea0037390b82e0/badges/799ec23655e8c95217b5/gpa.png" />}[https://codeclimate.com/repos/5296932bf3ea0037390b82e0/feed]
+
 == DaVinci Coders: User Authentication from Scratch
 
 This is a Ruby on Rails application I developed as part of the {Building the Toolbelt of a Junior Ruby on Rails Developer}[http://davincicoders.com/building-the-toolbelt-of-a-junior-ruby-on-rails-developer] class I took in the Summer of 2013.
